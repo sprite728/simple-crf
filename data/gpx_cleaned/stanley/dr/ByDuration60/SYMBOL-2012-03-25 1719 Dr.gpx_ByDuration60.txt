@@ -1,0 +1,8 @@
+A A C A A A C F F XXX NA NA A B dr
+C A E A A A M E T XXX NA NA B D dr
+B B D A A B I I F XXX NA NA B D dr
+B B E A A B G H T B 0 NA B D dr
+B B E A A B I H T B 0 NA B D dr
+C A E A A A C C T B 0 NA B D dr
+B B E A A B G F F B 0 NA B D dr
+B B C B B B J J F B 0 NA B D dr

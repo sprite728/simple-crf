@@ -1,0 +1,6 @@
+C D C C C C M N T A A 0 C B bus
+E D E C C D N Q F B A 0 D D bus
+F D E C C D R P F B A 0 D D bus
+B B C A A B G G F B A 0 C D bus
+E E D D D D Q O F B B 0 C D bus
+D D C D D D R P F B B 0 C D bus

@@ -1,0 +1,16 @@
+E E C D D E I D F A A 0 D C wk
+D D C D D E N O F A A 0 D C wk
+E E C E E E P M F A A 0 D C wk
+E E C D D E M M F A A 0 D C wk
+E E C E E E N P F A A 0 D C wk
+D E C D D E P P F A A 0 D C wk
+E E C E E E P M F A A 0 D C wk
+E E C D E E P P F A A 0 D C wk
+E E C E E E N P F A A 0 D C wk
+E E D D D E O O F A A 0 D C wk
+E E D D D E N N F A A 0 D C wk
+E E C D E E O O F A A 0 D C wk
+E E C D D E O N F A A 0 D C wk
+E E C D E E P N F A A 0 D C wk
+E E D E E E O O F A A 0 D C wk
+E E D D D F O J F A A 0 D C wk

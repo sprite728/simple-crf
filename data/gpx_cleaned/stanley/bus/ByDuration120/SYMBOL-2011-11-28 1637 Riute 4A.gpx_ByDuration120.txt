@@ -1,0 +1,4 @@
+E C E A A C C B F XXX 0 NA D D bus
+C C D A A C A A T D B 0 C D bus
+D C D B B D C C T C B 0 C D bus
+E E D C D E M G F B A 0 C D bus

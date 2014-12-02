@@ -1,0 +1,2 @@
+_avgSpeed	_exSpeed	 DiffAvgExpSpeed	 Max Speed	AvgTop3Speed	_speedMedian	_maxAcceleration	_maxDecceleration	Num Of Stops(including end/start point)	duration	distance	stopDurationMedianSoFar(while moving)	ratio Of Short Stop(while moving)	ratio Of Instant Stop(in short stop)	Avg of AvgSpeed	Avg of DiffAvgExp	label
+4.780420582531995	5.329067372625636 	-0.5486467900936409	14.02625583932959	10.018754171071098	5.063923951817252	3.0056262511938687	-4.481165943756169	0	91	120.83840916955879	0	1.1	1.1	4.780420582531995	-0.5486467900936409		wk

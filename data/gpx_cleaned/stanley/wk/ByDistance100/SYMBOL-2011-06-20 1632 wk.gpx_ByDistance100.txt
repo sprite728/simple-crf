@@ -1,0 +1,12 @@
+F D E B B E K B F E B 0 E D wk
+F D E C C D N F F E B 0 E D wk
+E D E C C D P E F E B 0 E D wk
+E E D D D D R R F E B 0 D D wk
+E E C D E E R R F D B 0 D D wk
+E E C E E E R R F D B 0 D D wk
+E E C E E E R R F D B 0 D D wk
+E E C E E E R R F D B 0 D D wk
+E E C D E E R R F D B 0 D D wk
+E E C E E E R R F D B 0 D D wk
+E E C D E E R R F D B 0 D C wk
+E E D E E F R R F C B 0 D C wk

@@ -1,0 +1,10 @@
+C C D B B C H E T A A 0 C D dr
+A A C A A A F M F A A 0 B B dr
+A A C A A A O G F A A 0 A B dr
+F E D C D F N F F B A 0 B C dr
+B B C A A B J G F B A 0 B B dr
+B B C A A B G H F B A 0 B B dr
+E E E B C F J J F C B 0 B C dr
+B B C A B B J C F C B 0 B C dr
+B B C A A B O C F C B 0 B B dr
+D D D C C E O G F C B 0 B C dr

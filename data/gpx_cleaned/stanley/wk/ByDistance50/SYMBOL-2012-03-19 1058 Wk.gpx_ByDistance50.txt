@@ -1,0 +1,5 @@
+E D D D D D P M F XXX NA NA D C wk
+E E C D D D P N F XXX NA NA D C wk
+E E D D D D Q Q F XXX NA NA D C wk
+E E C D E D R R F XXX NA NA D C wk
+D D C D D D P N F XXX NA NA D C wk

@@ -1,0 +1,10 @@
+E E C D E D R Q F B 0 NA D C wk
+E E C D E E Q O F B 0 NA D C wk
+F E D E E E R R F B 0 NA D C wk
+F E D D E F Q P F B 0 NA D C wk
+C C C C C C B E T A A A D C wk
+E E C E E E R Q F A A A D C wk
+E E C D E E R R F A A A D C wk
+E E D D E E R Q F A A A D C wk
+E E C E E E R R F A A A D C wk
+E F C E E E R R F A A A D C wk

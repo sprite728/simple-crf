@@ -1,0 +1,9 @@
+B B C A A B D K F XXX NA NA B B dr
+B B C A A B L D F XXX NA NA B B dr
+C B E A A B I J T C 0 NA B D dr
+B B C A A B L J F C 0 NA B D dr
+B B C A A B J M F C 0 NA B D dr
+C C D A A C G F T A A B B D dr
+C B E A A C B C T A A B B D dr
+C C E A A C C D T A A B C D dr
+D C D A A E N F T A A B C D dr

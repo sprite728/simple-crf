@@ -1,0 +1,12 @@
+E E D D D E N G F XXX NA NA E C bus
+C B E B B B C J T A A 0 C D bus
+A A C A A A B C F A A 0 B C bus
+B B C A B B F F F A A 0 C C bus
+C C C B B C F C F A A 0 C C bus
+B B C A A B O G F A A 0 C C bus
+E E D D D E N I F A A 0 C C bus
+E E C D D E N N F A A 0 C C bus
+E E C D D E F J F A A 0 C C bus
+E E C D D E M L F A A 0 C C bus
+E E C D D E J N F A A B C C bus
+E E C D E E N M F A A B C C bus

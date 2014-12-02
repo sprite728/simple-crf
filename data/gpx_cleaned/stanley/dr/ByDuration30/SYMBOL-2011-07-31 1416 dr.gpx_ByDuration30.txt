@@ -1,0 +1,13 @@
+A A C A A A I I F XXX NA NA A B dr
+D B E A A B F B F XXX NA NA B D dr
+B B C A A B B C F XXX NA NA B D dr
+C C D B B C C E T A A 0 B D dr
+B B E A A A J B T A A 0 B D dr
+E C E A B E A D F B A 0 C D dr
+A A C A A A I F F B A 0 B D dr
+A B C A A A J O F B A 0 B D dr
+B B C A A C G B T B A 0 B D dr
+B B D A A A J F T B A 0 B D dr
+A A C A A A B C F B A 0 B D dr
+B B C A A B J F T A A 0 B D dr
+E D D D D D O L F A A 0 B D dr

@@ -1,0 +1,9 @@
+E D D C C E L O F XXX 0 NA D D bus
+E E D C D E R N F D 0 NA D D bus
+D D C C D C P XXX T C 0 NA D D bus
+C D C D D C Q XXX F C 0 NA D C bus
+B C B B C B M XXX F C 0 NA C C bus
+D D C D D C R Q F C 0 NA C B bus
+C D C C D C Q Q F C 0 NA C B bus
+C C B C C C Q XXX F C 0 NA C B bus
+C D C C D C R O F C 0 NA C B bus

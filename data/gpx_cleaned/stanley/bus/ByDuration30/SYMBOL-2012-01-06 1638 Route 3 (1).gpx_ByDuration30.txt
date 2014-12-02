@@ -1,0 +1,7 @@
+D D C C D C Q P F XXX NA NA C C bus
+C C D B C C O M F XXX NA NA C C bus
+C C D C C C R O T XXX NA NA C C bus
+B B C B B B O Q F XXX NA NA C C bus
+C C D C C C Q O T XXX NA NA C C bus
+B B C A B C R O F XXX NA NA C C bus
+E E D D D D R Q F B 0 NA C C bus

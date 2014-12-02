@@ -1,0 +1,2 @@
+_avgSpeed	_exSpeed	 DiffAvgExpSpeed	 Max Speed	AvgTop3Speed	_speedMedian	_maxAcceleration	_maxDecceleration	Num Of Stops(including end/start point)	duration	distance	stopDurationMedianSoFar(while moving)	ratio Of Short Stop(while moving)	ratio Of Instant Stop(in short stop)	Avg of AvgSpeed	Avg of DiffAvgExp	label
+40.91692767473217	28.12584830549159 	12.791079369240581	48.54799637576348	42.18877245823739	42.18877245823739	0	-6.359223917526094	0	5	56.829066214905794	0	1.1	1.1	40.91692767473217	12.791079369240581		bus

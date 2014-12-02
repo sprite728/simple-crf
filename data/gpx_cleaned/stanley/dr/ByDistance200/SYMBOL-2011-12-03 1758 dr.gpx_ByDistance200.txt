@@ -1,0 +1,5 @@
+B B C B B B B C F XXX NA NA B B dr
+C C C B C C J F F XXX NA NA C B dr
+A A C A A A C J F XXX NA NA B B dr
+A A C A A A O C F XXX NA NA B B dr
+C C D A B C C F T XXX NA NA B B dr

@@ -1,0 +1,14 @@
+E E D D E E R R F B 0 NA D C wk
+E E C D E E R R F B A 0 D C wk
+F F C E E F R R F B B 0 D C wk
+E E C E E E R R F B B 0 D C wk
+F F D E E F R R F C B 0 E C wk
+E E D D E E R R F C B 0 E C wk
+E E D D E E R R F C B 0 E C wk
+E E C D E E R R F C B 0 E C wk
+E E D E E E R R F C B 0 E C wk
+E E C C D E R Q F C B 0 D C wk
+E E D D E E R R F C B 0 D C wk
+E E C D D E Q Q F C B 0 D C wk
+E E D D E E R Q F C B 0 D C wk
+D D C D D D Q R F C B 0 D C wk

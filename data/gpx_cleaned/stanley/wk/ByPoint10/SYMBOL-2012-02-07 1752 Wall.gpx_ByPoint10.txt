@@ -1,0 +1,13 @@
+D D D A C E M Q F A A 0 D D wk
+E E C D E E R Q F B A 0 D C wk
+E E D D D E R Q F B B 0 D C wk
+E E C D D E Q Q F B B 0 D C wk
+E E C D E E R Q F B B 0 D C wk
+E E C D E E R Q F B B 0 D C wk
+E E D D D D R Q F B B 0 D C wk
+E E C E E E R R F B B 0 D C wk
+E E D D E E R R F B B 0 D C wk
+E E C E E E Q Q F B B 0 D C wk
+E D E B C E R N F B B 0 D C wk
+F E E D D E R Q F B B 0 D C wk
+F F D E E F R Q F B B 0 D C wk

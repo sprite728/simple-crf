@@ -1,0 +1,3 @@
+B B E A A B C B T B 0 NA C D dr
+B B C A A A B B F B 0 NA B D dr
+B B D A A A B C T B 0 NA B D dr

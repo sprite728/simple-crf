@@ -1,0 +1,3 @@
+A B A A A A R R F XXX NA NA A A dr
+E C E A C E R XXX F C 0 NA B B dr
+E E D D E E R P F B A 0 C B dr

@@ -1,0 +1,14 @@
+C C C B B B L L F XXX NA NA C C bus
+B B C B B B Q R F XXX NA NA B B bus
+E C E B B D O O F E 0 NA C C bus
+D C E A B B K G T XXX 0 NA C D bus
+B B B A A A R N F XXX 0 NA C C bus
+D C E B B C P N T C B 0 C D bus
+B B B A A B J E F C B 0 C C bus
+B B C B B B R P F C B 0 C C bus
+B B C B B B Q P F C B 0 C C bus
+E C E B B C N L F C B 0 C C bus
+B B C B B B M L F C B 0 C C bus
+C C D B B C K P T C B 0 C C bus
+D C D B B D J L T B B 0 C C bus
+D C E A B E L B F B B 0 C D bus

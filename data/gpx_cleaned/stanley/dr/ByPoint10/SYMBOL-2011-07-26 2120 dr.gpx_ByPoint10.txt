@@ -1,0 +1,15 @@
+C C D B B C J E T XXX NA NA C D dr
+B B C A A A E O F XXX NA NA B B dr
+A A B A A A F M F XXX NA NA B B dr
+A A B A A A P N F XXX NA NA A B dr
+B C C A A B R F T XXX NA NA B B dr
+F E D C D E N R F C 0 NA B B dr
+B B C A A A J R F C 0 NA B B dr
+B B C A A B I H F C 0 NA B B dr
+B B C A B B G J F C 0 NA B B dr
+E E D B C F Q J F C 0 NA B B dr
+D C E B B C E I T C 0 NA B B dr
+B B C A B B K C F C 0 NA B B dr
+B B C A A B O O F C 0 NA B B dr
+C C C B C C M C F C 0 NA B B dr
+F F C E E F Q N F C 0 NA B B dr

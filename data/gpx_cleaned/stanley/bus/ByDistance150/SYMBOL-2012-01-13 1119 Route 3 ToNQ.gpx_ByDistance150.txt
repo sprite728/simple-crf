@@ -1,0 +1,4 @@
+C C D A B C Q O T C 0 NA C D bus
+C C C B B B N O F C 0 NA C D bus
+B B B A B B Q R F C 0 NA C B bus
+C C D B C C Q M F C 0 NA C B bus

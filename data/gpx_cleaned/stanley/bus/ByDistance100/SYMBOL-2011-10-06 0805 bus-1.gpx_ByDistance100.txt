@@ -1,0 +1,7 @@
+A B A A A A Q N F XXX NA NA A A bus
+E D E B C E P O F E 0 NA C B bus
+A B A A A A Q XXX F E 0 NA B A bus
+A B A A A A R R F E 0 NA B A bus
+A B A A A A R P F E 0 NA B A bus
+D D C B B E N P T D 0 NA B A bus
+B B B B B B P XXX F D 0 NA B A bus

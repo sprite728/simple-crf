@@ -1,0 +1,10 @@
+F E E D D E Q P F XXX NA NA E D bus
+D C E B B C P M T XXX 0 NA D D bus
+C B E A A B N L T D 0 NA C D bus
+F D E C C E R N F B 0 NA D D bus
+D D D C C E P L F B 0 NA D D bus
+E E D D E E R Q F B B 0 D D bus
+E E D D E E R Q F B B 0 D D bus
+E D D C D D P P F B B 0 D D bus
+D D D C C D Q O F B B 0 D D bus
+E E D D D E Q P F B B 0 D D bus

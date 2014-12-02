@@ -1,0 +1,8 @@
+E E D D D D Q Q F B 0 NA D C wk
+E E D E E E R R F B 0 NA D C wk
+F F C D E F Q P F B 0 NA E C wk
+D D D C C D R E F B 0 NA D C wk
+E E C D E E R R F B 0 NA D C wk
+E E D D E E R Q F B 0 NA D C wk
+E E D E E E R R F B 0 NA D C wk
+E E C E E E R R F B 0 NA D C wk

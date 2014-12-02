@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="GPS Stone Trip Recorder for iPhone by Obvious Idea" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<trkseg>
+			<trkpt lat="42.2872885690" lon="-83.7204270904">
+				<time>2012-04-06T13:30:26Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>265.429688</magvar>
+				<ele>245.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872783011" lon="-83.7207653840">
+				<time>2012-04-06T13:30:28Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>267.187500</magvar>
+				<ele>243.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872684524" lon="-83.7211056054">
+				<time>2012-04-06T13:30:30Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>267.187500</magvar>
+				<ele>243.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872259561" lon="-83.7216426340">
+				<time>2012-04-06T13:30:33Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>263.671875</magvar>
+				<ele>244.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2871965357" lon="-83.7221178041">
+				<time>2012-04-06T13:30:35Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>265.429688</magvar>
+				<ele>243.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872031993" lon="-83.7225096580">
+				<time>2012-04-06T13:30:39Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>267.890625</magvar>
+				<ele>244.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872059234" lon="-83.7228648831">
+				<time>2012-04-06T13:30:43Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>270.000000</magvar>
+				<ele>242.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872163169" lon="-83.7232085411">
+				<time>2012-04-06T13:30:48Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>272.812500</magvar>
+				<ele>243.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872142215" lon="-83.7235487626">
+				<time>2012-04-06T13:30:54Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>266.484375</magvar>
+				<ele>245.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872112878" lon="-83.7239151356">
+				<time>2012-04-06T13:30:57Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>264.726562</magvar>
+				<ele>245.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872350505" lon="-83.7242895552">
+				<time>2012-04-06T13:31:01Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>275.976562</magvar>
+				<ele>245.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872893233" lon="-83.7246022002">
+				<time>2012-04-06T13:31:04Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>274.570312</magvar>
+				<ele>244.000000</ele>
+				<vdop>8.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872640938" lon="-83.7250692398">
+				<time>2012-04-06T13:31:06Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>267.539062</magvar>
+				<ele>242.000000</ele>
+				<vdop>8.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872378584" lon="-83.7257556339">
+				<time>2012-04-06T13:31:09Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>268.593750</magvar>
+				<ele>242.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2872156883" lon="-83.7261957676">
+				<time>2012-04-06T13:31:11Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>268.242188</magvar>
+				<ele>243.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2871826636" lon="-83.7268661522">
+				<time>2012-04-06T13:31:14Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>267.890625</magvar>
+				<ele>243.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2871483816" lon="-83.7275092118">
+				<time>2012-04-06T13:31:17Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>266.484375</magvar>
+				<ele>243.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2871119203" lon="-83.7281883974">
+				<time>2012-04-06T13:31:20Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>268.593750</magvar>
+				<ele>245.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2870924743" lon="-83.7286551856">
+				<time>2012-04-06T13:31:22Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>267.890625</magvar>
+				<ele>248.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2870698432" lon="-83.7290752866">
+				<time>2012-04-06T13:31:24Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>266.484375</magvar>
+				<ele>247.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2870664066" lon="-83.7294939627">
+				<time>2012-04-06T13:31:26Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>267.539062</magvar>
+				<ele>246.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2869932745" lon="-83.7301217672">
+				<time>2012-04-06T13:31:29Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>260.156250</magvar>
+				<ele>246.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2869129759" lon="-83.7304583845">
+				<time>2012-04-06T13:31:31Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>252.773438</magvar>
+				<ele>246.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2867997783" lon="-83.7309601252">
+				<time>2012-04-06T13:31:34Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>253.476562</magvar>
+				<ele>248.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2867333098" lon="-83.7314816472">
+				<time>2012-04-06T13:31:37Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>261.210938</magvar>
+				<ele>247.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2866651649" lon="-83.7318185159">
+				<time>2012-04-06T13:31:40Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>255.937500</magvar>
+				<ele>247.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2866071621" lon="-83.7321128045">
+				<time>2012-04-06T13:32:09Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>239.414062</magvar>
+				<ele>248.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2865052801" lon="-83.7324773335">
+				<time>2012-04-06T13:32:52Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>247.851562</magvar>
+				<ele>250.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2864204552" lon="-83.7327774056">
+				<time>2012-04-06T13:32:55Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>250.312500</magvar>
+				<ele>251.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2863402404" lon="-83.7331135199">
+				<time>2012-04-06T13:32:58Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>252.421875</magvar>
+				<ele>251.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2861433914" lon="-83.7335002609">
+				<time>2012-04-06T13:33:01Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>241.875000</magvar>
+				<ele>253.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2860681219" lon="-83.7337989920">
+				<time>2012-04-06T13:33:03Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>244.335938</magvar>
+				<ele>253.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2858781880" lon="-83.7342195120">
+				<time>2012-04-06T13:33:06Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>239.062500</magvar>
+				<ele>254.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2857268947" lon="-83.7345245295">
+				<time>2012-04-06T13:33:09Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>237.656250</magvar>
+				<ele>255.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2856146191" lon="-83.7347931695">
+				<time>2012-04-06T13:33:30Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>234.492188</magvar>
+				<ele>254.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2854248109" lon="-83.7350685988">
+				<time>2012-04-06T13:33:35Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>228.515625</magvar>
+				<ele>253.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2852206277" lon="-83.7353294437">
+				<time>2012-04-06T13:33:37Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>221.132812</magvar>
+				<ele>253.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2849438154" lon="-83.7355575991">
+				<time>2012-04-06T13:33:41Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>213.750000</magvar>
+				<ele>253.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2846157058" lon="-83.7357336190">
+				<time>2012-04-06T13:33:43Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>195.468750</magvar>
+				<ele>256.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2842717125" lon="-83.7358181086">
+				<time>2012-04-06T13:33:47Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>187.734375</magvar>
+				<ele>257.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2839061357" lon="-83.7358067931">
+				<time>2012-04-06T13:33:50Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>178.945312</magvar>
+				<ele>258.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2835969273" lon="-83.7357821503">
+				<time>2012-04-06T13:33:52Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>176.835938</magvar>
+				<ele>260.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2832899820" lon="-83.7357613631">
+				<time>2012-04-06T13:33:56Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>176.132812</magvar>
+				<ele>262.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2830580967" lon="-83.7357082219">
+				<time>2012-04-06T13:34:00Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>177.890625</magvar>
+				<ele>262.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2827065597" lon="-83.7356674020">
+				<time>2012-04-06T13:34:18Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>174.023438</magvar>
+				<ele>261.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2824494867" lon="-83.7356223074">
+				<time>2012-04-06T13:34:22Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>170.156250</magvar>
+				<ele>262.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2821611911" lon="-83.7355759554">
+				<time>2012-04-06T13:34:25Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>174.023438</magvar>
+				<ele>263.000000</ele>
+				<vdop>3.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2818362667" lon="-83.7355332916">
+				<time>2012-04-06T13:34:27Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>175.078125</magvar>
+				<ele>264.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2815755057" lon="-83.7355113310">
+				<time>2012-04-06T13:34:31Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>177.890625</magvar>
+				<ele>263.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2813429917" lon="-83.7355641370">
+				<time>2012-04-06T13:34:34Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>190.546875</magvar>
+				<ele>269.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2812067019" lon="-83.7358685677">
+				<time>2012-04-06T13:34:39Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>232.031250</magvar>
+				<ele>271.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2813173430" lon="-83.7362636068">
+				<time>2012-04-06T13:34:42Z</time>
+				<hdop>10.000000</hdop>
+				<magvar>270.351562</magvar>
+				<ele>270.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2813153314" lon="-83.7365684566">
+				<time>2012-04-06T13:34:55Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>276.679688</magvar>
+				<ele>272.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2813159181" lon="-83.7369086780">
+				<time>2012-04-06T13:35:14Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>273.867188</magvar>
+				<ele>279.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2811557400" lon="-83.7372193952">
+				<time>2012-04-06T13:35:19Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>218.320312</magvar>
+				<ele>279.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2808548715" lon="-83.7372172997">
+				<time>2012-04-06T13:35:22Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>176.132812</magvar>
+				<ele>277.000000</ele>
+				<vdop>4.000000</vdop>
+			</trkpt>
+			<trkpt lat="42.2806309071" lon="-83.7372977660">
+				<time>2012-04-06T13:35:35Z</time>
+				<hdop>5.000000</hdop>
+				<magvar>188.085938</magvar>
+				<ele>280.000000</ele>
+				<vdop>6.000000</vdop>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,6 @@
+C B E A A B C C T A A 0 C D bus
+C C D A A D F C T A A 0 C D bus
+F E E B C E C C F A A 0 C D bus
+C C D A A C A B T A A 0 C D bus
+C C D A B C C B T A A 0 C D bus
+D D D A A E A A F A A 0 C D bus

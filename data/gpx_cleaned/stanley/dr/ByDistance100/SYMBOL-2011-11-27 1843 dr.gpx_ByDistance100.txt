@@ -1,0 +1,16 @@
+B B C A A B E C F XXX NA NA B B dr
+A A B A A A O M F XXX NA NA B B dr
+A B B A A A K J F XXX NA NA A B dr
+A A B A A A P Q F XXX NA NA A B dr
+A A B A A A M P F XXX NA NA A A dr
+A A B A A A O O F XXX NA NA A A dr
+A A A A A A N P F XXX NA NA A A dr
+A A A A A A P K F XXX NA NA A A dr
+A A B A A A L K F XXX NA NA A A dr
+A A B A A A M N F XXX NA NA A A dr
+A A B A A A Q L F XXX NA NA A A dr
+A B C A A A L L F XXX NA NA A A dr
+D C E A B C O L T XXX NA NA A A dr
+B B C A A B C C F XXX NA NA A A dr
+A B B A A A H M F XXX NA NA A A dr
+C C D A B C I C T XXX NA NA A B dr

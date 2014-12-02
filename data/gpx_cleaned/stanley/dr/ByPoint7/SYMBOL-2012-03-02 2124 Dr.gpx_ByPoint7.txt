@@ -1,0 +1,12 @@
+C C D A B D R M T XXX NA NA C D dr
+B B C B B B P R F XXX NA NA C C dr
+B B E A A A N M T XXX NA NA C C dr
+B C C A B C O L F XXX NA NA C C dr
+A A B A A A O R F XXX NA NA B B dr
+B B C A A B P K F XXX NA NA B B dr
+A A B A A A Q R F XXX NA NA B B dr
+A A B A A A Q R F XXX NA NA B B dr
+A A B A A A O P F XXX NA NA B B dr
+A B B A A A P O F XXX NA NA A B dr
+B C C A B B Q N F XXX NA NA B B dr
+C D C B C D P Q F XXX NA NA B B dr

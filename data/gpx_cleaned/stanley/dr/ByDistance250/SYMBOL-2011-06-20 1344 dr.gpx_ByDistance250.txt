@@ -1,0 +1,15 @@
+C B E A A B A A T A A 0 C D dr
+A A C A A A F I F A A 0 B D dr
+A A B A A A C B F A A 0 A C dr
+A A A A A A L M F A A 0 A B dr
+A A B A A A C B F A A 0 A B dr
+A A B A A A K H F A A 0 A B dr
+A A B A A A E H F A A 0 A A dr
+A A B A A A N I F A A 0 A A dr
+A A B A A A Q K F A A 0 A A dr
+A A B A A A M M F A A 0 A A dr
+A A B A A A F E F A A 0 A A dr
+A A B A A A P M F A A 0 A A dr
+C B E A A B J C T A A 0 A B dr
+B B C A B B J I F A A 0 A B dr
+B B D A A B J F F A A 0 A B dr

@@ -1,0 +1,17 @@
+F E E D D E P M F XXX 0 NA E D bus
+C C C C C C C F F XXX 0 NA D D bus
+C C D B B C K F T C A 0 C D bus
+E E D D D E I K F A A 0 D C bus
+D C D B C C F J T A A 0 C D bus
+C C C B B B F C T A A 0 C C bus
+E E D D D E I N F A A 0 C C bus
+B B C B B B H J F A A 0 C C bus
+E E D C D E C H F A A 0 C C bus
+B B C B B B B E F A A 0 C C bus
+B B C B B B I J F A A 0 C C bus
+C C C B B C J I F A A 0 C C bus
+E C E A A F B B F A A 0 C C bus
+D D C C C C F F T A A 0 C C bus
+D D C D D D J L F A A B C C bus
+D D C C C D G C F A A B C C bus
+D E C D D E H N F A A B C C bus

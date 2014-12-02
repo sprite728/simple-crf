@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<gpx
+ version="1.1"
+ creator="My Tracks running on Nexus One"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+<trk>
+<name><![CDATA[2012-01-13 11:19 Route 3 ToNQ]]></name>
+<desc><![CDATA[]]></desc>
+<number>311</number>
+<extensions><topografix:color>c0c0c0</topografix:color></extensions>
+<trkseg>
+<trkpt lat="42.28005" lon="-83.7474">
+<ele>260.4</ele>
+<time>2012-01-13T16:19:37Z</time>
+</trkpt>
+<trkpt lat="42.2801" lon="-83.74741">
+<ele>258.7</ele>
+<time>2012-01-13T16:19:38Z</time>
+</trkpt>
+<trkpt lat="42.28023" lon="-83.74744">
+<ele>256.4</ele>
+<time>2012-01-13T16:19:41Z</time>
+</trkpt>
+<trkpt lat="42.28035" lon="-83.74731">
+<ele>261.6</ele>
+<time>2012-01-13T16:19:44Z</time>
+</trkpt>
+<trkpt lat="42.28039" lon="-83.74709">
+<ele>254.6</ele>
+<time>2012-01-13T16:19:47Z</time>
+</trkpt>
+<trkpt lat="42.28042" lon="-83.74681">
+<ele>254.8</ele>
+<time>2012-01-13T16:19:50Z</time>
+</trkpt>
+<trkpt lat="42.28042" lon="-83.74656">
+<ele>253.3</ele>
+<time>2012-01-13T16:19:53Z</time>
+</trkpt>
+<trkpt lat="42.28042" lon="-83.74638">
+<ele>251.6</ele>
+<time>2012-01-13T16:19:56Z</time>
+</trkpt>
+<trkpt lat="42.28045" lon="-83.74633">
+<ele>246.7</ele>
+<time>2012-01-13T16:19:59Z</time>
+</trkpt>
+<trkpt lat="42.28052" lon="-83.74632">
+<ele>241.3</ele>
+<time>2012-01-13T16:20:02Z</time>
+</trkpt>
+<trkpt lat="42.28053" lon="-83.74598">
+<ele>244.7</ele>
+<time>2012-01-13T16:20:20Z</time>
+</trkpt>
+<trkpt lat="42.28037" lon="-83.74558">
+<ele>238.7</ele>
+<time>2012-01-13T16:20:23Z</time>
+</trkpt>
+<trkpt lat="42.28033" lon="-83.74532">
+<ele>237.7</ele>
+<time>2012-01-13T16:20:26Z</time>
+</trkpt>
+<trkpt lat="42.28035" lon="-83.74502">
+<ele>238.5</ele>
+<time>2012-01-13T16:20:29Z</time>
+</trkpt>
+<trkpt lat="42.28034" lon="-83.7447">
+<ele>238.2</ele>
+<time>2012-01-13T16:20:32Z</time>
+</trkpt>
+<trkpt lat="42.28033" lon="-83.74446">
+<ele>237.8</ele>
+<time>2012-01-13T16:20:35Z</time>
+</trkpt>
+<trkpt lat="42.28033" lon="-83.74432">
+<ele>237.5</ele>
+<time>2012-01-13T16:20:38Z</time>
+</trkpt>
+<trkpt lat="42.2803" lon="-83.74426">
+<ele>236.6</ele>
+<time>2012-01-13T16:20:41Z</time>
+</trkpt>
+<trkpt lat="42.28029" lon="-83.74419">
+<ele>237.1</ele>
+<time>2012-01-13T16:20:47Z</time>
+</trkpt>
+<trkpt lat="42.2803" lon="-83.74408">
+<ele>237.6</ele>
+<time>2012-01-13T16:20:50Z</time>
+</trkpt>
+<trkpt lat="42.28031" lon="-83.74384">
+<ele>238.1</ele>
+<time>2012-01-13T16:20:53Z</time>
+</trkpt>
+<trkpt lat="42.2803" lon="-83.74352">
+<ele>239.2</ele>
+<time>2012-01-13T16:20:56Z</time>
+</trkpt>
+<trkpt lat="42.2803" lon="-83.74313">
+<ele>238.9</ele>
+<time>2012-01-13T16:20:59Z</time>
+</trkpt>
+<trkpt lat="42.28028" lon="-83.74272">
+<ele>240.1</ele>
+<time>2012-01-13T16:21:02Z</time>
+</trkpt>
+<trkpt lat="42.28024" lon="-83.74234">
+<ele>240.6</ele>
+<time>2012-01-13T16:21:05Z</time>
+</trkpt>
+<trkpt lat="42.28023" lon="-83.74197">
+<ele>240.8</ele>
+<time>2012-01-13T16:21:08Z</time>
+</trkpt>
+<trkpt lat="42.28026" lon="-83.74155">
+<ele>241.3</ele>
+<time>2012-01-13T16:21:11Z</time>
+</trkpt>
+<trkpt lat="42.28025" lon="-83.74125">
+<ele>240.6</ele>
+<time>2012-01-13T16:21:14Z</time>
+</trkpt>
+<trkpt lat="42.28026" lon="-83.74104">
+<ele>239.9</ele>
+<time>2012-01-13T16:21:17Z</time>
+</trkpt>
+<trkpt lat="42.28033" lon="-83.74092">
+<ele>240.2</ele>
+<time>2012-01-13T16:21:20Z</time>
+</trkpt>
+<trkpt lat="42.28048" lon="-83.74086">
+<ele>241.1</ele>
+<time>2012-01-13T16:21:23Z</time>
+</trkpt>
+<trkpt lat="42.28068" lon="-83.74084">
+<ele>241.4</ele>
+<time>2012-01-13T16:21:26Z</time>
+</trkpt>
+<trkpt lat="42.28086" lon="-83.74084">
+<ele>241.1</ele>
+<time>2012-01-13T16:21:29Z</time>
+</trkpt>
+<trkpt lat="42.28093" lon="-83.74087">
+<ele>242</ele>
+<time>2012-01-13T16:21:32Z</time>
+</trkpt>
+<trkpt lat="42.28092" lon="-83.74076">
+<ele>243.6</ele>
+<time>2012-01-13T16:21:38Z</time>
+</trkpt>
+<trkpt lat="42.28094" lon="-83.7407">
+<ele>242.8</ele>
+<time>2012-01-13T16:21:44Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="details.xsl"?>
+<gpx
+ version="1.1"
+ creator="My Tracks running on Nexus One"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+<trk>
+<name><![CDATA[2012-03-21 15:59 Wk]]></name>
+<desc><![CDATA[]]></desc>
+<number>395</number>
+<extensions><topografix:color>c0c0c0</topografix:color></extensions>
+<trkseg>
+<trkpt lat="42.28001" lon="-83.74083">
+<ele>255.8</ele>
+<time>2012-03-21T19:59:52Z</time>
+</trkpt>
+<trkpt lat="42.27995" lon="-83.74083">
+<ele>261.2</ele>
+<time>2012-03-21T19:59:55Z</time>
+</trkpt>
+<trkpt lat="42.27991" lon="-83.74085">
+<ele>265.4</ele>
+<time>2012-03-21T19:59:57Z</time>
+</trkpt>
+<trkpt lat="42.27986" lon="-83.74081">
+<ele>267.7</ele>
+<time>2012-03-21T20:00:03Z</time>
+</trkpt>
+<trkpt lat="42.27979" lon="-83.74079">
+<ele>268.1</ele>
+<time>2012-03-21T20:00:08Z</time>
+</trkpt>
+<trkpt lat="42.27974" lon="-83.74082">
+<ele>270.4</ele>
+<time>2012-03-21T20:00:11Z</time>
+</trkpt>
+<trkpt lat="42.2797" lon="-83.74085">
+<ele>270.2</ele>
+<time>2012-03-21T20:00:16Z</time>
+</trkpt>
+<trkpt lat="42.27965" lon="-83.74087">
+<ele>269.8</ele>
+<time>2012-03-21T20:00:24Z</time>
+</trkpt>
+<trkpt lat="42.2796" lon="-83.74082">
+<ele>268.7</ele>
+<time>2012-03-21T20:00:31Z</time>
+</trkpt>
+<trkpt lat="42.27955" lon="-83.74083">
+<ele>262.1</ele>
+<time>2012-03-21T20:00:38Z</time>
+</trkpt>
+<trkpt lat="42.27951" lon="-83.74084">
+<ele>258</ele>
+<time>2012-03-21T20:00:40Z</time>
+</trkpt>
+<trkpt lat="42.27944" lon="-83.74083">
+<ele>254.4</ele>
+<time>2012-03-21T20:00:42Z</time>
+</trkpt>
+<trkpt lat="42.27939" lon="-83.74082">
+<ele>250.9</ele>
+<time>2012-03-21T20:00:46Z</time>
+</trkpt>
+<trkpt lat="42.27935" lon="-83.74087">
+<ele>247.7</ele>
+<time>2012-03-21T20:00:49Z</time>
+</trkpt>
+<trkpt lat="42.27931" lon="-83.74091">
+<ele>243.4</ele>
+<time>2012-03-21T20:00:52Z</time>
+</trkpt>
+<trkpt lat="42.27926" lon="-83.74089">
+<ele>245.8</ele>
+<time>2012-03-21T20:00:56Z</time>
+</trkpt>
+<trkpt lat="42.2792" lon="-83.74089">
+<ele>245.5</ele>
+<time>2012-03-21T20:01:01Z</time>
+</trkpt>
+<trkpt lat="42.27916" lon="-83.74086">
+<ele>242.5</ele>
+<time>2012-03-21T20:01:05Z</time>
+</trkpt>
+<trkpt lat="42.2791" lon="-83.74084">
+<ele>240.9</ele>
+<time>2012-03-21T20:01:09Z</time>
+</trkpt>
+<trkpt lat="42.27905" lon="-83.74082">
+<ele>236.8</ele>
+<time>2012-03-21T20:01:14Z</time>
+</trkpt>
+<trkpt lat="42.279" lon="-83.74079">
+<ele>237.5</ele>
+<time>2012-03-21T20:01:20Z</time>
+</trkpt>
+<trkpt lat="42.27895" lon="-83.74079">
+<ele>237.3</ele>
+<time>2012-03-21T20:01:23Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

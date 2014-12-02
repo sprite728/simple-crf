@@ -1,0 +1,5 @@
+C B E A A B C F T B 0 NA C D dr
+C C E A A B C E T C 0 NA C D dr
+B B E A A B K I T B 0 NA C D dr
+C B E A A A C H T C 0 NA C D dr
+B B C A B B F G F C 0 NA C D dr

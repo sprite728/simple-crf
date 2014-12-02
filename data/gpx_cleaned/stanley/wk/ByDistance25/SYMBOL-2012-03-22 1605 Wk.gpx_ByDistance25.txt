@@ -1,0 +1,10 @@
+D D C C D D R O F XXX NA NA C B wk
+E E D E E E R Q F XXX NA NA D C wk
+E E C E E E R R F XXX NA NA D C wk
+E E C D E E R Q F XXX NA NA D C wk
+D E C E E D R R F XXX NA NA D C wk
+E E C D E E R Q F XXX NA NA D C wk
+E E C E E E R XXX F XXX NA NA D C wk
+E E C E E E R R F XXX NA NA D C wk
+E E C E E E R R F XXX NA NA D C wk
+E E C E E E R R F XXX NA NA D C wk

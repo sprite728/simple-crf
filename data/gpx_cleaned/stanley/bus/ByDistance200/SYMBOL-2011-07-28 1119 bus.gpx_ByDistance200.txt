@@ -1,0 +1,10 @@
+B B C A A B A A F XXX NA NA B B bus
+B B C A B B I C F XXX NA NA B B bus
+C C C A A C A A T A A 0 B B bus
+C C D A A D A B T A A 0 C B bus
+B B C A A B B J T A A 0 C B bus
+B B C A A B B B F A A 0 C B bus
+D C D A B C B C T A A 0 C C bus
+C C D A A C A A T B B 0 C C bus
+C C D B B B B E T A A 0 C C bus
+B C C B B C J C F A A 0 C C bus
