@@ -1,0 +1,17 @@
+addpath(genpath('/packages/HMMall'));
+O = 3;
+Q = 2;
+prior0 = rand(Q,1);
+transmat0 = mk_stochastic(rand(Q,Q));
+obsmat0 = mk_stochastic(rand(Q,O));  
+
+T=10;
+nex=20;
+data = dhmm_sample(prior0, transmat0, obsmat0, nex, T);  
+
+% matlab's hmm model
+trans = [0.95,0.05; 0.10,0.90];
+emis = [1/6 1/6 1/6 1/6 1/6 1/6;
+   1/10 1/10 1/10 1/10 1/10 1/2];
+
+[seq,states] = hmmgenerate(1000,trans,emis);
